@@ -58,7 +58,7 @@ function makeSound(key) {
       break;
 
     case "l":
-      var violin2 = new Audio('sounds/violin2');
+      var violin2 = new Audio('sounds/violin2.mp3');
       violin2.play();
       break;
 
